@@ -2,6 +2,7 @@
   "name": "14",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://EkaterinaMilehina.github.io/TodoList.git",
   "dependencies": {
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
@@ -14,8 +15,6 @@
     "uuid": "^9.0.1"
   },
   "scripts": {
-    "predeploy": "cd build && npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
